@@ -1,4 +1,4 @@
-import { getRandomNumber, getRandomIndex } from '../random';
+import { getRandomNumber, getRandomIndex } from '../random.js';
 import run from '../index.js';
 
 const description = 'What is the result of the expression?';
